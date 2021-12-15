@@ -35,7 +35,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 Angular 12, HTML5, CSS, PHP, JavaScript, AJAX, BootStrap, TypeScript
 
 ### Programming and Runtime:
-Python, Java
+Python, Java, Node.js
 
 ### Database:
 Mysql, MongoDb
@@ -50,7 +50,7 @@ Git
 Pandas, Numpy, Altair, Plotly, Matplotlib, ScikitLearn
 
 ### Others:
-Android Studio, Linux, Windows, Visual Studio Code, Node.js.
+Android Studio, Linux, Windows, Visual Studio Code.
 
 ## Certification
 
