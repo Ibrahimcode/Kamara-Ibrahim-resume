@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Ibrahim Kamara's Resume
+title: Ibrahim Kamara Resume
 ---
 # Ibrahim Kamara
 Online Student at Brigham Young University Idaho - BS in Applied Technology.
 
 <div id="webaddress">
-<a href="ibrahamic24@gmail.comm">ibrahamic24@gmail.com</a>
-<!-- | <a href="https://byuidatascience.github.io/development.html">Git-Hub</a> -->  
+<a href="ibrahamic24@gmail.comm">ibrahamic24@gmail.com</a> 
 <a href="https://github.com/Ibrahimcode">Git-Hub</a> 
 <a href="https://www.linkedin.com/in/ibrahim-kamara-b86bb51a4/">Linkedin</a>
 </div>
@@ -16,11 +15,6 @@ Online Student at Brigham Young University Idaho - BS in Applied Technology.
 
 
 ## Education
-
-<!-- `2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA -->
 
 `Expected fall 2023`
 __BS - Applied Technology__
@@ -33,8 +27,10 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Complete a web Frontend application that gives five wearther forcast for all major cities in the world.
 
 
-<!-- ## Related Experience -->
+
 ## skills
+
+
 ### Pgramming, WebTechnologies & Frameworks: 
 Angular 12, HTML5, CSS, PHP, Python, Java, 
 
@@ -57,6 +53,8 @@ Pandas, Numpy, Altair, Plotly, Matplotlib, ScikitLearn
 Android Studio, Linux, Windows, Visual Studio Code.
 
 ## Certification
+
+
 ### PC Pro
 `July 2020`
 TestOut Incoporation

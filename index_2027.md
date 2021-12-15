@@ -1,15 +1,14 @@
 ---
 layout: resume
-title: Ibrahim Kamara's Resume
+title: Ibrahim Kamara Resume
 ---
 # Ibrahim Kamara
 Online Student at Brigham Young University Idaho - BS in Applied Technology.
 
 <div id="webaddress">
 <a href="ibrahamic24@gmail.comm">ibrahamic24@gmail.com</a>
-<!-- | <a href="https://byuidatascience.github.io/development.html">Git-Hub</a> -->  
-<a href="https://github.com/Ibrahimcode">Git-Hub</a> 
-<a href="https://www.linkedin.com/in/ibrahim-kamara-b86bb51a4/">Linkedin</a>
+<!-- | <a href="https://byuidatascience.github.io/development.html">Git-Hub</a> -->
+<a href="https://github.com/Ibrahimcode">Git-Hub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -33,36 +32,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Complete a web Frontend application that gives five wearther forcast for all major cities in the world.
 
 
-<!-- ## Related Experience -->
-## skills
-### Pgramming, WebTechnologies & Frameworks: 
-Angular 12, HTML5, CSS, PHP, Python, Java, 
-
-### Sripts/UI:
-JavaScript, AJAX, BootStrap, TypeScript
-
-### Database:
-Mysql, MongoDb
-
-### Web Debug Tools:
-Chrome developers tools
-
-### Version Control Tool:
-Git
-
-### Data Science Libraries:
-Pandas, Numpy, Altair, Plotly, Matplotlib, ScikitLearn
-
-### Others:
-Android Studio, Linux, Windows, Visual Studio Code.
-
-## Certification
-### PC Pro
-`July 2020`
-TestOut Incoporation
-
-
-<!-- ## Related Experience
+## Related Experience
 
 ### Internships
 
@@ -113,7 +83,7 @@ __Math Tutor__, LDSBC
 
 
 `2023-2025`
-__Service Missionary__, South Africa -->
+__Service Missionary__, South Africa
 
 
 
