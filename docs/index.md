@@ -17,7 +17,7 @@ Online Student at Brigham Young University Idaho - BS in Applied Technology.
 ## Education
 
 `Expected fall 2023`
-__BS - Applied Technology__
+__BS - Applied Technology__,
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.8 Major GPA
