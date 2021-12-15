@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Ibrahim Kamara's Resume
 ---
 # Ibrahim Kamara
@@ -60,3 +60,5 @@ Android Studio, Linux, Windows, Visual Studio Code.
 ### PC Pro
 `July 2020`
 TestOut Incoporation
+
+<!-- Last updated December 2021. -->
