@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Ibrahim Kamara Resume
+title: Ibrahim Kamara's Resume
 ---
 # Ibrahim Kamara
 Online Student at Brigham Young University Idaho - BS in Applied Technology.
@@ -24,14 +24,14 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Relevant Course Work: Web Frontend, Web Backend Development, Software Design and Development, Relational Database Design, Data Science.
 - Lead a team in developing an andriod ecommerece app.
 - Complete a web full stack app that helps tracks users expenses using the Angular framework and Mongodb.
-- Complete a web Frontend application that gives five wearther forcast for all major cities in the world.
+- Complete a web Frontend application that gives five days weather forcast for all major cities in the world.
 
 
 
 ## skills
 
 
-### Pgramming, WebTechnologies & Frameworks: 
+### Pgramming, Web Technologies & Frameworks: 
 Angular 12, HTML5, CSS, PHP, Python, Java, 
 
 ### Sripts/UI:
